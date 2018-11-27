@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css?family=Rambla');
+
+.desktop{
+    display: none;
+}
+
+#banniere{
+    width: auto;
+    height: 138px;
+    background: url("../../includes/assets/bg_header.png") repeat-x #fff;
+}
+
+.logo img{
+    max-width:95%;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    box-shadow: 0 0 20px #000
+}
+option{
+    font-size:12px;
+    height:5% !important;
+}
+.menu{
+    font-size: 20px;
+    font-family: 'Rambla', sans-serif;
+    
+}
+.menu a{
+    color:#000 !important;   
+}
+
+
+
+@media (min-width: 576px) { 
+    .desktop{
+    display: none;
+    }
+    #banniere{
+        width: auto;
+        height: 138px;
+        background: url("../../includes/assets/bg_header.png") repeat-x #fff;
+    }
+    
+    .logo img{
+        max-width:70%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 0 0 20px #000
+    }
+    
+    .menu{
+        font-size: 20px;
+        font-family: 'Rambla', sans-serif;
+        
+    }
+    .menu a{
+        color:#000 !important;   
+    }
+ }
+
+
+@media (min-width: 768px) { 
+    .desktop{
+        display: none;
+    }
+
+    #banniere{
+        width: auto;
+        height: 138px;
+        background: url("../../includes/assets/bg_header.png") repeat-x #fff;
+    }
+    
+    .logo img{
+        max-width:50%;
+        display: block;
+        margin-left: 0;
+        margin-right: 0;
+        box-shadow: 0 0 20px #000
+    }
+    option{
+        font-size:12px;
+        height:5% !important;
+    }
+    .menu{
+        font-size: 20px;
+        font-family: 'Rambla', sans-serif;
+        
+    }
+    .menu a{
+        color:#000 !important;   
+    }
+ }
+
+@media (min-width: 992px) { 
+    .desktop{
+        display: inline;
+        }
+    .mobile{
+        display: none;
+    }
+
+    #banniere{
+        width: auto;
+        height: 138px;
+        background: url("../../includes/assets/bg_header.png") repeat-x #fff;
+    }
+    
+    .logo img{
+        max-width:70%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 0 0 20px #000
+    }
+    
+    .menu{
+        font-size: 20px;
+        font-family: 'Rambla', sans-serif;
+        
+    }
+    .menu a{
+        color:#000 !important;   
+    }
+ }
+
+@media (min-width: 1200px) { 
+    .desktop{
+        display: inline;
+        }
+    .mobile{
+        display: none;
+    }
+    
+    #banniere{
+        width: auto;
+        height: 138px;
+        background: url("../../includes/assets/bg_header.png") repeat-x #fff;
+    }
+    
+    .logo img{
+        max-width:40%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 0 0 20px #000
+    }
+    
+    .menu{
+        font-size: 15px;
+        font-family: 'Rambla', sans-serif;
+        
+    }
+    .menu a{
+        color:#000 !important;   
+    }
+ }

@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Rambla');
-
+/*Header*/
 .desktop{
     display: none;
 }
@@ -15,7 +15,8 @@
     display: block;
     margin-left: 0;
     margin-right: 0;
-    box-shadow: 0 0 20px #000
+    box-shadow: 0 0 20px #000;
+   
 }
 option{
     font-size:12px;
@@ -30,6 +31,22 @@ option{
     color:#000 !important;   
 }
 
+/*Fin header*/
+
+/*Homepage*/
+
+.slider{
+    background: url("../../includes/assets/superheadline_wrapper.jpg") repeat-x center bottom ;
+   box-shadow: 0 -2px 6px #363636 inset;
+    
+}
+
+.carousel{
+    display: none;
+}
+
+
+/*Fin homepage*/
 
 
 @media (min-width: 576px) { 
@@ -58,6 +75,11 @@ option{
     .menu a{
         color:#000 !important;   
     }
+
+    .carousel{
+        display: inline;
+    }
+    
  }
 
 
@@ -91,6 +113,10 @@ option{
     .menu a{
         color:#000 !important;   
     }
+   
+    .carousel{
+        display: inline;
+    }
  }
 
 @media (min-width: 992px) { 
@@ -123,6 +149,10 @@ option{
     .menu a{
         color:#000 !important;   
     }
+    
+    .carousel{
+        display: inline;
+    }
  }
 
 @media (min-width: 1200px) { 
@@ -144,7 +174,16 @@ option{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        box-shadow: 0 0 20px #000
+        box-shadow: 0 0 20px #000;
+        z-index:2;
+         
+    }
+    
+    .logo{
+        z-index: 9999;
+    }
+    .img_carousel img{
+        z-index:1;
     }
     
     .menu{
@@ -155,4 +194,10 @@ option{
     .menu a{
         color:#000 !important;   
     }
+
+    .carousel{
+        display: inline;
+    }
+    
+    
  }

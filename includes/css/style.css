@@ -7,6 +7,14 @@ body{
   
 }
 
+iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; 
+}
+
 .superheadline_wrapper{
     background: url("../../includes/assets/superheadline_wrapper.jpg") repeat-x center top #333333;
     box-shadow: 0 0 20px #000
@@ -122,6 +130,48 @@ option{
 }
 /*Fin competences*/
 
+/*Equipe*/
+
+.equipe img{
+    max-width:26%;
+}
+
+.equipe{
+    margin-top:10%;
+}
+.equipe h2{
+    font-family: 'Rambla';
+    font-size: 1.3em;
+}
+
+.equipe p{
+    font-family: 'Rambla';
+    font-size: 1.0em;
+}
+
+/*Fin Equipe*/
+
+/*Coordonnées*/
+.coordonnees{
+    margin-top: 2%;
+}
+
+.coordonnees h2 {
+    font-family: 'Rambla';
+    font-size: 1.3em;
+}
+
+.coordonnees p {
+    font-family: 'Rambla';
+    font-size: 1.0em;
+}
+
+.map{
+    height:300px;
+}
+
+/*Fin coordonnees*/
+
 
 /*Footer*/
 
@@ -187,7 +237,7 @@ option{
     /*Competences*/
 
     .competences img{
-        max-width:100%;
+        max-width:15%;
     }
 
     .img-competences{
@@ -195,6 +245,13 @@ option{
     }
 
     /*Fin competences*/
+
+    /*Equipe*/
+
+.equipe img{
+    max-width:20%;
+}
+/*Fin Equipe*/
     
  }
 
@@ -254,6 +311,13 @@ option{
     }
 
     /*Fin competences*/
+
+    /*Equipe*/
+
+.equipe img{
+    max-width:15%;
+}
+/*Fin Equipe*/
     
  }
 
@@ -311,6 +375,13 @@ option{
     }
 
     /*Fin competences*/
+
+    /*Equipe*/
+
+.equipe img{
+    max-width:100%;
+}
+/*Fin Equipe*/
     
  }
 
@@ -377,4 +448,12 @@ option{
     }
 
     /*Fin competences*/
+
+    /*Equipe*/
+
+.equipe img{
+    max-width:100%;
+}
+/*Fin Equipe*/
  }
+

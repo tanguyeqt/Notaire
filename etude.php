@@ -7,13 +7,13 @@
     <link rel="stylesheet" href="includes/css/bootstrap.min.css">
   <link rel="stylesheet" href="includes/css/style.css"> 
   <link rel="shortcut icon" href="includes/assets/favicon.ico" type="image/x-icon">
-    <title>Compétences | Etude de Maître Florence RICHARD</title>
+    <title>L'Etude | Etude de Maître Florence RICHARD</title>
 </head>
 <body>
     <?php include("includes/header.php");?>
 
     <div>
-        <img style="max-width:100%;max-height:100%;text-align:center;clear:both;width:100%;margin:0 0 0 0px;" src="includes/assets/2.jpg">        
+        <img style="max-width:100%;max-height:100%;text-align:center;clear:both;width:100%;margin:0 0 0 0px;" src="includes/assets/banniere.jpg">        
     </div>
     <div class="superheadline_wrapper">
         <br>

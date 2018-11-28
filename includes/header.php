@@ -10,19 +10,19 @@
             <div class="col-lg-8 menu" style="margin-top: 9%; ">
                 <ul class="nav ">
                     <li class="nav-item">
-                        <a class="nav-link active" href="Notaire/">Accueil</a>
+                        <a class="nav-link active" href="http://127.0.0.1/Notaire/">Accueil</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="http://127.0.0.1/competences.php">Compétences</a>
+                        <a class="nav-link active" href="http://127.0.0.1/Notaire/competences.php">Compétences</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Notaire/etude.php">L'Etude</a>
+                        <a class="nav-link" href="http://127.0.0.1/Notaire/etude.php">L'Etude</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Notaire/equipe.php">L'équipe</a>
+                        <a class="nav-link" href="http://127.0.0.1/Notaire/equipe.php">L'équipe</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Notaire/coordonnees.php">Coordonnées</a>
+                        <a class="nav-link" href="http://127.0.0.1/Notaire/coordonnees.php">Coordonnées</a>
                     </li>
                 </ul>
             </div> 
@@ -43,11 +43,11 @@
                     </li>
                     <li class="nav-item" style="margin-top: 5%;">
                     <select class="form-control form-control-lg" onchange="document.location.href=this.value">
-                        <option value="/">Accueil</option>
-                        <option value="/competences.php">Competences</option>
-                        <option value="/etude.php">L'Etudes</option>
-                        <option value="/equipe.php">L'équipe</option>
-                        <option value="/coordonnees.php">Coordonnées</option>
+                        <option value="http://127.0.0.1/Notaire/">Accueil</option>
+                        <option value="http://127.0.0.1/Notaire/competences.php">Competences</option>
+                        <option value="http://127.0.0.1/Notaire/etude.php">L'Etudes</option>
+                        <option value="http://127.0.0.1/Notaire/equipe.php">L'équipe</option>
+                        <option value="http://127.0.0.1/Notaire/coordonnees.php">Coordonnées</option>
                     </select>
                    
                     </li>

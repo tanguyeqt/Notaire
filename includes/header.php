@@ -2,12 +2,12 @@
 <div class="nav-menu logo desktop">
     <div class="container">
         <div class="row">    
-            <div class="col-lg-4" style="margin-top: 2%;">
+            <div class="col-lg-4" style="margin-top: 2%; z-index: 5;">
                 <a href="http://127.0.0.1/Notaire/" title="Etude de Maître Florence RICHARD, Notaire à WASQUEHAL">
                     <img src="http://127.0.0.1/Notaire/includes/assets/logo.png" class="img-responsive center-block"  alt="logo" >
                 </a>
             </div>
-            <div class="col-lg-8 menu" style="margin-top: 9%;">
+            <div class="col-lg-8 menu" style="margin-top: 9%; ">
                 <ul class="nav ">
                     <li class="nav-item">
                         <a class="nav-link active" href="/">Accueil</a>
@@ -33,7 +33,7 @@
 <div class="nav-menu logo mobile">
     <div class="container">
         <div class="row">    
-            <div class="col-lg-1" style="margin-top: 5%;">
+            <div class="col-lg-1" style="margin-top: 5%;  z-index: 5;">
             <ul class="nav ">
                    
                     <li class="nav-item" style="width: 35%;">

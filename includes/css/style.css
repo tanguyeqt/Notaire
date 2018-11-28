@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Rambla');
+
 /*Header*/
 .desktop{
     display: none;
@@ -15,18 +16,19 @@
     display: block;
     margin-left: 0;
     margin-right: 0;
-    box-shadow: 0 0 20px #000;
-   
+    box-shadow: 0 0 20px #000;   
 }
+
 option{
     font-size:12px;
     height:5% !important;
 }
+
 .menu{
     font-size: 20px;
-    font-family: 'Rambla', sans-serif;
-    
+    font-family: 'Rambla', sans-serif;    
 }
+
 .menu a{
     color:#000 !important;   
 }
@@ -36,23 +38,24 @@ option{
 /*Homepage*/
 
 .slider{
-    background: url("../../includes/assets/superheadline_wrapper.jpg") repeat-x center bottom ;
-   box-shadow: 0 -2px 6px #363636 inset;
-    
+    background: url("../../includes/assets/superheadline_wrapper.jpg") repeat-x center bottom #333333;
+    box-shadow: 0 -2px 6px #363636 inset;
 }
 
-.carousel{
+.carousell{
     display: none;
 }
-
 
 /*Fin homepage*/
 
 
 @media (min-width: 576px) { 
+
+     /*Header*/
     .desktop{
     display: none;
     }
+
     #banniere{
         width: auto;
         height: 138px;
@@ -69,21 +72,28 @@ option{
     
     .menu{
         font-size: 20px;
-        font-family: 'Rambla', sans-serif;
-        
-    }
-    .menu a{
-        color:#000 !important;   
+        font-family: 'Rambla', sans-serif;        
     }
 
-    .carousel{
+    .menu a{
+        color:#000 !important;   
+    }   
+
+    /*Fin Header*/
+    /*Homepage*/
+
+    .carousell{
         display: inline;
     }
+
+    /*Fin Homepage*/
     
  }
 
 
 @media (min-width: 768px) { 
+
+     /*Header*/
     .desktop{
         display: none;
     }
@@ -101,28 +111,39 @@ option{
         margin-right: 0;
         box-shadow: 0 0 20px #000
     }
+
     option{
         font-size:12px;
         height:5% !important;
     }
+
     .menu{
         font-size: 20px;
-        font-family: 'Rambla', sans-serif;
-        
+        font-family: 'Rambla', sans-serif;        
     }
+
     .menu a{
         color:#000 !important;   
-    }
-   
-    .carousel{
+    }  
+
+    /*Fin Header*/
+    /*Homepage*/
+
+    .carousell{
         display: inline;
     }
+
+    /*Fin Homepage*/
+    
  }
 
 @media (min-width: 992px) { 
+
+     /*Header*/
     .desktop{
         display: inline;
-        }
+    }
+
     .mobile{
         display: none;
     }
@@ -143,22 +164,31 @@ option{
     
     .menu{
         font-size: 20px;
-        font-family: 'Rambla', sans-serif;
-        
+        font-family: 'Rambla', sans-serif;        
     }
+
     .menu a{
         color:#000 !important;   
     }
     
-    .carousel{
+    /*Fin Header*/
+    /*Homepage*/
+
+    .carousell{
         display: inline;
     }
+
+    /*Fin Homepage*/
+    
  }
 
 @media (min-width: 1200px) { 
+
+    /*Header*/
     .desktop{
         display: inline;
-        }
+    }
+
     .mobile{
         display: none;
     }
@@ -175,29 +205,28 @@ option{
         margin-left: auto;
         margin-right: auto;
         box-shadow: 0 0 20px #000;
-        z-index:2;
-         
+        z-index:2;         
     }
     
     .logo{
         z-index: 9999;
     }
-    .img_carousel img{
-        z-index:1;
-    }
-    
+  
     .menu{
         font-size: 15px;
-        font-family: 'Rambla', sans-serif;
-        
-    }
-    .menu a{
-        color:#000 !important;   
+        font-family: 'Rambla', sans-serif;        
     }
 
-    .carousel{
+    .menu a{
+        color:#000 !important;   
+    }  
+    
+    /*Fin Header*/
+    /*Homepage*/
+
+    .carousell{
         display: inline;
     }
-    
-    
+
+    /*Fin Homepage*/
  }

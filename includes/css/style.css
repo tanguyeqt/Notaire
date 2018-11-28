@@ -15,8 +15,15 @@ iframe{
     height: 100%; 
 }
 
+
+
+option{
+    font-size:12px;
+    height:5% !important;
+}
+
 .superheadline_wrapper{
-    background: url("../../includes/assets/superheadline_wrapper.jpg") repeat-x center top #333333;
+    background: url("../../includes/assets/bandegrey.jpg") repeat-x center top #333333;
     box-shadow: 0 0 20px #000
 }
 
@@ -41,10 +48,6 @@ iframe{
     box-shadow: 0 0 20px #000;   
 }
 
-option{
-    font-size:12px;
-    height:5% !important;
-}
 
 .menu{
     font-size: 20px;
@@ -60,7 +63,7 @@ option{
 /*Homepage*/
 
 .slider{
-    background: url("../../includes/assets/superheadline_wrapper.jpg") repeat-x center bottom #333333;
+    background: url("../../includes/assets/bandegrey.jpg") repeat-x center bottom #333333;
     box-shadow: 0 0 20px #000
 }
 

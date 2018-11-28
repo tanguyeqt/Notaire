@@ -10,19 +10,19 @@
             <div class="col-lg-8 menu" style="margin-top: 9%; ">
                 <ul class="nav ">
                     <li class="nav-item">
-                        <a class="nav-link active" href="/">Accueil</a>
+                        <a class="nav-link active" href="Notaire/">Accueil</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="/competences.php">Compétences</a>
+                        <a class="nav-link active" href="http://127.0.0.1/competences.php">Compétences</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/etude.php">L'Etude</a>
+                        <a class="nav-link" href="Notaire/etude.php">L'Etude</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/equipe.php">L'équipe</a>
+                        <a class="nav-link" href="Notaire/equipe.php">L'équipe</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/coordonnees.php">Coordonnées</a>
+                        <a class="nav-link" href="Notaire/coordonnees.php">Coordonnées</a>
                     </li>
                 </ul>
             </div> 

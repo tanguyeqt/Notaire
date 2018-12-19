@@ -13,34 +13,9 @@
   <?php include('includes/header.php'); ?>
 
     <div class="main">
-      <div class="carousell">
-        <div class="slider">
-          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img class="d-block w-100" src="includes/assets/slider.jpg" alt="First slide">
-              </div>
-              <div class="carousel-item">
-                <img class="d-block w-100" src="includes/assets/slider.jpg" alt="Second slide">
-              </div>
-              <div class="carousel-item">
-                <img class="d-block w-100" src="includes/assets/slider.jpg" alt="Third slide">
-              </div>
-            </div>
-            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </a>
-          </div>
-          <br>
-        </div>
-      </div>
+     
       <div class="row accueil">
-        <div class="col">     
+        <div class="col-2">     
         </div>
         <div class="col-5 text-accueil">
             <p>Maître Florence RICHARD et ses collaborateurs vous accueillent du lundi au vendredi à
@@ -54,7 +29,30 @@
             <p>Si vous cherchez une relation de confiance durable avec votre Notaire, je vous invite à
             découvrir au fil de ce site nos valeurs et nos engagements à vos côtés</p>
         </div>
-        <div class="col">    
+        <div class="col-4">    
+        <div class="carousell">
+        <div class="slider">
+          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img class="d-block w-100" src="includes/assets/slider1.jpg" alt="First slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="includes/assets/slider2.jpg" alt="Second slide">
+              </div>            
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+          <br>
+        </div>
+      </div>
         </div>
       </div> 
     </div>

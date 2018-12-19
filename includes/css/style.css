@@ -46,7 +46,7 @@ option{
 #banniere{
     width: auto;
     height: 138px;
-    background: url("../../includes/assets/bg_header.png") repeat-x #fff;
+    background-color: #3f6b8b;
 }
 
 .logo img{
@@ -64,7 +64,7 @@ option{
 }
 
 .menu a{
-    color:#000 !important;   
+    color:#fff !important;   
 }
 
 /*Fin header*/
@@ -72,8 +72,9 @@ option{
 /*Homepage*/
 
 .slider{
-    background: url("../../includes/assets/bandegrey.jpg") repeat-x center bottom #333333;
-    box-shadow: 0 0 20px #000
+  
+   
+    margin-top:15%;
 }
 
 .carousell{
@@ -191,16 +192,17 @@ option{
     margin-top: 2%;
     width: auto;
     height: 70px;
-    background: url("../../includes/assets/bg_footer.jpg") repeat-x #fff;
+    background-color: #3f6b8b;
 }
 
 #footer p{
     text-align: center;
+    color:#fff
 }
 
 #footer a{
     text-decoration: none;
-    color:#000;
+    color:#fff;
 }
 
 
@@ -217,7 +219,7 @@ option{
     #banniere{
         width: auto;
         height: 138px;
-        background: url("../../includes/assets/bg_header.png") repeat-x #fff;
+        background-color: #3f6b8b;
     }
     
     .logo img{
@@ -234,7 +236,7 @@ option{
     }
 
     .menu a{
-        color:#000 !important;   
+        color:#fff !important;   
     }   
 
     /*Fin Header*/
@@ -278,7 +280,7 @@ option{
     #banniere{
         width: auto;
         height: 138px;
-        background: url("../../includes/assets/bg_header.png") repeat-x #fff;
+        background-color: #3f6b8b;
     }
     
     .logo img{
@@ -300,7 +302,7 @@ option{
     }
 
     .menu a{
-        color:#000 !important;   
+        color:#fff !important;   
     }  
 
     /*Fin Header*/
@@ -347,7 +349,7 @@ option{
     #banniere{
         width: auto;
         height: 138px;
-        background: url("../../includes/assets/bg_header.png") repeat-x #fff;
+        background-color: #3f6b8b;
     }
     
     .logo img{
@@ -364,7 +366,7 @@ option{
     }
 
     .menu a{
-        color:#000 !important;   
+        color:#fff !important;   
     }
     
     /*Fin Header*/
@@ -411,7 +413,7 @@ option{
     #banniere{
         width: auto;
         height: 138px;
-        background: url("../../includes/assets/bg_header.png") repeat-x #fff;
+        background-color: #3f6b8b;
     }
     
     .logo img{
@@ -433,7 +435,7 @@ option{
     }
 
     .menu a{
-        color:#000 !important;   
+        color:#fff !important;   
     }  
     
     /*Fin Header*/

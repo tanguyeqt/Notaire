@@ -47,6 +47,8 @@ option{
     width: auto;
     height: 138px;
     background-color: #3f6b8b;
+    border-bottom: 1.5px solid #000;
+
 }
 
 .logo img{
@@ -193,6 +195,8 @@ option{
     width: auto;
     height: 70px;
     background-color: #3f6b8b;
+    border-top: 1.5px solid #000;
+  
 }
 
 #footer p{
@@ -208,7 +212,16 @@ option{
 
 /*Fin du footer*/
 
+/*Mentions Legales*/
+.mentions-legales{
+    margin-top:2%;
+}
+.mentions-legales h1{
+    font-size: 20px;
+}
 
+
+/*Fin Mentions Legales*/
 @media (min-width: 576px) { 
 
      /*Header*/
@@ -263,7 +276,7 @@ option{
     /*Equipe*/
 
 .equipe img{
-    max-width:20%;
+    max-width:30%;
 }
 /*Fin Equipe*/
     
@@ -329,7 +342,7 @@ option{
     /*Equipe*/
 
 .equipe img{
-    max-width:15%;
+    max-width:25%;
 }
 /*Fin Equipe*/
     
@@ -393,7 +406,7 @@ option{
     /*Equipe*/
 
 .equipe img{
-    max-width:100%;
+    max-width:110%;
 }
 /*Fin Equipe*/
     
@@ -466,7 +479,7 @@ option{
     /*Equipe*/
 
 .equipe img{
-    max-width:100%;
+    max-width:110%;
 }
 /*Fin Equipe*/
  }

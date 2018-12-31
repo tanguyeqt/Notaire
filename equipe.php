@@ -12,12 +12,8 @@
 <body>
     <?php include("includes/header.php");?>
 
-    <div>
-        <img style="max-width:100%;max-height:100%;text-align:center;clear:both;width:100%;margin:0 0 0 0px;" src="includes/assets/banniere.jpg">        
-    </div>
-    <div class="superheadline_wrapper">
-        <br>
-    </div>  
+    
+
     <div class="container">
         <div class="row equipe">
 
@@ -26,7 +22,7 @@
                 <div class="row">
                 
                     <div class="col-lg-3">
-                        <img src="includes/assets/FR.jpg">
+                        <img style =" border: 1.5px solid black;" src="includes/assets/FR.jpg">
                     </div>
                     <div class="col-lg-6">
                     <p>Maître Florence Richard a été nommée Notaire à Wasquehal en 2018. Elle est titulaire du Diplôme Supérieur du Notariat de l'université de PARIS II Panthéon-Assas.
@@ -41,7 +37,7 @@
             <h2>Madame Mathilde Jurges</h2><br>
                     <div class="row">                
                     <div class="col-lg-3">                        
-                    <img src="includes/assets/MJ.jpg">
+                    <img style =" border: 1.5px solid black;"src="includes/assets/MJ.jpg">
                     </div>
                     <div class="col-lg-6">
                     <p>Madame Mathilde JURGES est titulaire du Diplôme Supérieur du Notariat de l'université de Paris II Panthéon-Assas et du Master II droit fiscal des affaires de Lille II.</p>

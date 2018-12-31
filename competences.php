@@ -12,12 +12,8 @@
 <body>
     <?php include("includes/header.php");?>
 
-    <div>
-        <img style="max-width:100%;max-height:100%;text-align:center;clear:both;width:100%;margin:0 0 0 0px;" src="includes/assets/banniere.jpg">        
-    </div>
-    <div class="superheadline_wrapper">
-        <br>
-    </div>   
+    
+ 
     <div class="container competences">
     <div class="row justify-content-center">  
             <div class="famille"> 

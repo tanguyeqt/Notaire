@@ -7,6 +7,7 @@
   <title>Etude de Maître Florence RICHARD, Notaire à WASQUEHAL</title>
   <link rel="stylesheet" href="includes/css/bootstrap.min.css">
   <link rel="stylesheet" href="includes/css/style.css"> 
+  <link rel="shortcut icon" href="includes/assets/favicon.ico" type="image/x-icon">
 </head>
 <body>
 
@@ -39,6 +40,9 @@
               </div>
               <div class="carousel-item">
                 <img class="d-block w-100" src="includes/assets/slider2.jpg" alt="Second slide">
+              </div>  
+              <div class="carousel-item">
+                <img class="d-block w-50 img-fluid rounded mx-auto" src="includes/assets/eglise.png" alt="Second slide">
               </div>            
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -56,7 +60,14 @@
         </div>
       </div> 
     </div>
-    
+    <div class="row">
+    <div class="col-7">
+    </div>
+   
+    <div class="col-4 text-accueil">
+    <p><strong>Notre équipe est à votre disposition du lundi au vendredi de 9h00 à 12h30 et de 14h00 à 18h00 et le vendredi jusqu'à 17h00. Possibilité de prises de rendez-vous entre 12h30 et 14H00, après 18H et de se déplacer à domicile.</strong></p>
+    </div>
+    </div>
   <?php include('includes/footer.php');?>
 
 </body>

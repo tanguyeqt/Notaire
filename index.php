@@ -13,8 +13,7 @@
 
   <?php include('includes/header.php'); ?>
 
-    <div class="main">
-     
+    <div class="main">     
       <div class="row accueil">
         <div class="col-2">     
         </div>
@@ -31,43 +30,39 @@
             découvrir au fil de ce site nos valeurs et nos engagements à vos côtés</p>
         </div>
         <div class="col-4">    
-        <div class="carousell">
-        <div class="slider">
-          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img class="d-block w-100" src="includes/assets/slider1.jpg" alt="First slide">
+          <div class="carousell">
+            <div class="slider">
+              <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img class="d-block w-100" src="includes/assets/slider1.jpg" alt="First slide">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="includes/assets/slider2.jpg" alt="Second slide">
+                  </div>  
+                  <div class="carousel-item">
+                    <img class="d-block w-50 img-fluid rounded mx-auto" src="includes/assets/eglise.png" alt="Second slide">
+                  </div>            
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
               </div>
-              <div class="carousel-item">
-                <img class="d-block w-100" src="includes/assets/slider2.jpg" alt="Second slide">
-              </div>  
-              <div class="carousel-item">
-                <img class="d-block w-50 img-fluid rounded mx-auto" src="includes/assets/eglise.png" alt="Second slide">
-              </div>            
             </div>
-            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </a>
           </div>
-          <br>
-        </div>
-      </div>
+          
+          <div class=" text-accueil">
+            <p><strong>Notre équipe est à votre disposition du lundi au vendredi de 9h00 à 12h30 et de 14h00 à 18h00 et le vendredi jusqu'à 17h00. Possibilité de prises de rendez-vous entre 12h30 et 14H00, après 18H et de se déplacer à domicile.</strong></p>
+          </div>
         </div>
       </div> 
     </div>
-    <div class="row">
-    <div class="col-7">
-    </div>
-   
-    <div class="col-4 text-accueil">
-    <p><strong>Notre équipe est à votre disposition du lundi au vendredi de 9h00 à 12h30 et de 14h00 à 18h00 et le vendredi jusqu'à 17h00. Possibilité de prises de rendez-vous entre 12h30 et 14H00, après 18H et de se déplacer à domicile.</strong></p>
-    </div>
-    </div>
+    
   <?php include('includes/footer.php');?>
 
 </body>

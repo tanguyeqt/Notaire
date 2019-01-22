@@ -76,7 +76,7 @@ option{
 .slider{
   
    
-    margin-top:15%;
+    margin-top:7%;
 }
 
 .carousell{
@@ -218,6 +218,9 @@ option{
 }
 .mentions-legales h1{
     font-size: 20px;
+}
+.mentions-legales h2{
+    font-size: 17px!important;
 }
 
 

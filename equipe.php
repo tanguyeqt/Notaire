@@ -29,7 +29,7 @@
                     Avant d'être nommée elle a exercé au sein d'Etudes parisiennes de renommée.</p>
                     <p>Langues parlées : anglais, allemand.</p><br>
 
-                    <p>Email : florence.richard@notaires.fr </p>
+                    <p>Email: <a href="mailto:florence.richard@notaires.fr"> florence.richard@notaires.fr</a> </p>
                    </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
 
                     <p>Langues parlées : anglais</p><br>
 
-                    <p>Email : mathilde.jurges.59258@notaires.fr</p>
+                    <p>Email: <a href="mailto:mathilde.jurges.59258@notaires.fr">mathilde.jurges.59258@notaires.fr</a> </p>
                     </div>
                 </div>
             </div>

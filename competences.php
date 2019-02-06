@@ -29,7 +29,7 @@
                 <img src="includes/assets/entreprise.png" class="img-responsive img-competences">
             </div>&nbsp;&nbsp;
             <div class="international"> 
-                <h2>Droit Inernationnal</h2>   
+                <h2>Droit International</h2>   
                 <img src="includes/assets/international.png" class="img-responsive img-competences">
             </div>
         </div>
@@ -94,7 +94,7 @@
                     </ul>
                </div>
                <div class="col-lg-12 text-center">
-                   <p>Quelque soit votre projet n’hésitez pas à nous en parler.</p>
+                   <p>Quel que soit votre projet n’hésitez pas à nous en parler.</p>
                </div>
 
                 

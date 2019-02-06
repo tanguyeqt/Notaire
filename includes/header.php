@@ -2,7 +2,7 @@
 <div class="nav-menu logo desktop">
     <div class="container">
         <div class="row">    
-            <div class="col-lg-4" style="margin-top: 2%; z-index: 5;">
+            <div class="col-lg-4" style="z-index: 5;">
                 <a href="http://tanguyequinet.fr/pro/Notaire/" title="Etude de Maître Florence RICHARD, Notaire à WASQUEHAL">
                     <img src="http://tanguyequinet.fr/pro/Notaire/includes/assets/logo.png" class="img-responsive center-block"  alt="logo" >
                 </a>

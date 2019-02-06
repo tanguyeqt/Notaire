@@ -20,8 +20,10 @@
            <p>Florence RICHARD - Notaire<br>14 bis, rue Michelet<br>59290 WASQUEHAL</p>
            <p>En face de l'Eglise Saint Nicolas<br>Métro : ligne 2 - arrêt Wasquehal Hôtel de Ville<br>Bus : n° 32 arrêt Hôtel de Ville<br>Voiture : parking Hôtel de Ville<br><br>
            <h2>Contact</h2> 
-           <p>Tel : 03.20.95.39.40<br>Email : florence.richard@notaires.fr</p>
-           <p><strong> Notre équipe est à votre disposition du lundi au vendredi de 9h00 à 12h30 et de 14h00 à 18h00 et le vendredi jusqu'à 17h00. Possibilité de prises de rendez-vous entre 12h30 et 14H00, après 18H et de se déplacer à domicile.</strong></p>
+           <p>Tel :<a href="tel:+33320953940"> 03.20.95.39.40</a><br>Email : <a href="mailto:florence.richard@notaires.fr"> florence.richard@notaires.fr</a> </p>
+           <h2>Horaires</h2> 
+           <p> Du lundi au vendredi de 9H00 à 12H30 et de 14H00 à 18H00 et le vendredi jusqu’à 17H00.<br>
+           <strong>Possibilité de prises de rendez-vous entre 12h30 et 14H00, après 18H et de se déplacer à domicile.</strong></p>
            <hr>           
         </div>
         <div class="col">    

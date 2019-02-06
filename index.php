@@ -27,7 +27,7 @@
             <p>Office Notarial à taille humaine, nous nous voulons proches de vous. Soucieux de comprendre
             vos besoins, nous cherchons à vous apporter les réponses les mieux adaptées.</p><br>
             <p>Si vous cherchez une relation de confiance durable avec votre Notaire, je vous invite à
-            découvrir au fil de ce site nos valeurs et nos engagements à vos côtés</p>
+            découvrir au fil de ce site nos valeurs et nos engagements à vos côtés.</p>
         </div>
         <div class="col-4">    
           <div class="carousell">

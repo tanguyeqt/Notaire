@@ -35,7 +35,9 @@ option{
     background: url("../../includes/assets/bandegrey.jpg") repeat-x center top #333333;
     box-shadow: 0 0 20px #000
 }
-
+a{
+    color:#000;
+}
 /*Fin General*/
 
 /*Header*/

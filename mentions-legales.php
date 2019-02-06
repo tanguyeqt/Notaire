@@ -22,24 +22,24 @@
                     <h2><strong>Editeur</strong></h2>
                     <p>Etude de Maître Florence RICHARD, dont le siège social est situé à WASQUEHAL (59290),
                     14 bis, rue Michelet. <br>
-                    Téléphone : 03.20.95.39.40<br>
-                    Mail : florence.richard@notaires.fr<br>
+                    Téléphone :<a href="tel:+33320953940"> 03.20.95.39.40</a><br>
+                    Mail :  <a href="mailto:florence.richard@notaires.fr"> florence.richard@notaires.fr</a><br>
                     <h2><strong>Directeur de la publication</strong></h2>
                     <p>Maître Florence RICHARD, Notaire à WASQUEHAL. La direction de la publication porte sur la responsabilité des informations générales qu’elle publie relatives au droit et à la profession notariale.<br>
-                    Numéro d’agrément du site :<br>
+                    Numéro d’agrément du site :  59258170119133<br>
                     Numéro de SIRET : 840 739 114 000 14<br>
                     Numéro de TVA intracommunautaire : FR 74 840 739 114</p>
 
                     <h1><strong>2. Crédits</strong></h1>
                     <h2><strong>Conception du site :</strong></h2>
                     <p>Tanguy EQUINET<br>
-                    Téléphone : 06.82.61.94.65<br>
-                    mail: tanguyequinet@outlook.fr<br>
+                    Téléphone : <a href="tel:+33682619465"> 06.82.61.94.65</a> <br>
+                    mail: <a href="mailto:tanguyequinet@outlook.fr">tanguyequinet@outlook.fr</a><br>
                     site : <a href="http://tanguyequinet.fr">http://tanguyequinet.fr</a></p>
                     <h2><strong>Réalisation du site :</strong></h2>
                     <p>Tanguy EQUINET<br>
-                    Téléphone : 06.82.61.94.65<br>
-                    mail: tanguyequinet@outlook.fr<br>
+                    Téléphone : <a href="tel:+33682619465"> 06.82.61.94.65</a> <br>
+                    mail: <a href="mailto:tanguyequinet@outlook.fr">tanguyequinet@outlook.fr</a><br>
                     site : <a href="http://tanguyequinet.fr">http://tanguyequinet.fr</a></p>
                     <h2><strong>Hébergement :</strong></h2>
                     <p>OVH<br>
